@@ -21,7 +21,6 @@ github "kwizzad/kwizzad-ios" "master"
 5. Confirm everything works and you can get a KWIZZAD test campaign
 6. Talk to your KWIZZAD publisher support team to receive your individual API keys and placement IDs
 
-
 ## with Swift
 
 Test using the `KwizzadExample` target.
